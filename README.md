@@ -1,9 +1,9 @@
 # Project Description
 
-This is my first project where i am learning the concepts by applying  in project creation . 
+- This is my first project where i am learning the concepts by applying  in project creation . 
 
-This is my the my first Gaming project  , created using HTML ,CSS and JavaScript .
-Here i have used the basics of HTML ,CSS and JavaScript . 
+- This is my the my first Gaming project  , created using HTML ,CSS and JavaScript .
+- Here i have used the basics of HTML ,CSS and JavaScript . 
 
 ## HTML : 
 - I have used the basic tags in this project like div , para , button , heading tags .
